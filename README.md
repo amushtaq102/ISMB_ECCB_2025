@@ -1,4 +1,4 @@
-# ISMB_ECCB_2025
+# ISMB ECCB 2025
 Genomic Variant Interpretation &amp; prioritisation for clinical research
 
 Room: 04AB
