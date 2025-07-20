@@ -20,3 +20,5 @@ Use bioinformatics knowledge bases to explore information about genetic variants
 Evaluate evidence from multiple sources supporting variant effect and impact in the context of research and study design
 Explore the impact of variant interpretation on clinical diagnostics and drug tractability.
 
+## [Group project template](https://docs.google.com/presentation/d/1oHd2APrVCcyXdAK7mWg4EVVa5Wt6vG34vLRfaL8P4OY/edit?usp=sharing)
+
